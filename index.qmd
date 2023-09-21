@@ -10,8 +10,6 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 1 + 1
 ```
 
-install.packages("usethis")
-usethis::use_git()
+install.packages("usethis") usethis::use_git()
 
 usethis::use_github()
-
