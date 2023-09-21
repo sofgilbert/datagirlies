@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "datagirlies",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\ninstall.packages(“usethis”) usethis::use_git()\nusethis::use_github()"
+    "text": "Welcome to Data for the Girlies!\nAt Data for the Girlies we publish data visualizations and analysis relevant to women and girls. This includes everything from analysis of the Eras tour to occupational data and insights into women’s health."
   },
   {
     "objectID": "about.html",

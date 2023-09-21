@@ -1,5 +1,5 @@
 ---
-title: "datagirlies"
+title: "Data for the Girlies"
 ---
 
 **Welcome to Data for the Girlies!**
