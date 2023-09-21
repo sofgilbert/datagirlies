@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "datagirlies"
+  title: "Data for the Girlies"
   navbar:
     left:
       - href: index.qmd
